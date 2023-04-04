@@ -1,0 +1,63 @@
+.todo-container{
+    background-color: gray;
+    color: aliceblue;
+    border-radius: 10px;
+    margin: auto;
+    width: 90vw;
+    height: 50vh;
+    text-align: center;
+
+
+}
+.header{
+
+    text-align: center;
+    font-size: 2em;
+
+}
+.input-container{
+    background-color:gray;
+    border-radius: 1em;
+    border: 2px solid black;
+
+    text-align: center;
+    padding-left: 20px;
+}
+.input{
+
+    color: black;
+    font-size: 1.5em;
+    font-weight: bold;
+    width: 80%;
+    background-color: white;
+    border: 1px;
+    border-radius: 5px;
+    padding: .5em;
+    margin: 1em;
+    border: none;
+    text-align: center;
+}
+.add-btn{
+    background-color: rgb(114, 193, 69);
+    color: aliceblue;
+    cursor: pointer;
+}
+.list-class{
+    font-size: 1em;
+    background-color: rgb(63, 65, 60);
+    color: white;
+    border-radius: 5px;
+    border: 1px solid rgb(228, 231, 223);
+    font-style: italic;
+    text-align: center;
+    padding: .5em;
+    margin: .5em;
+
+}
+.dlt-btn{
+    background-color: rgb(208, 53, 53);
+    margin: 0px 5px;
+    padding: 3px 5px;
+    float: right;
+    color: black;
+}
